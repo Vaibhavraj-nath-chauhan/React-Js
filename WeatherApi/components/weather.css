@@ -1,0 +1,15 @@
+.heading{
+    background-color:  rgba(241, 241, 136, 0.877);
+    width: 300px;
+    height: fit-content;
+}
+
+.main{
+    background-color: rgba(241, 241, 136, 0.877);
+    width: 400px;
+    height: 400px;
+}
+
+.tag{
+    padding-top:10px;
+}
