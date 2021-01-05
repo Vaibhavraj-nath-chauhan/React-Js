@@ -6,7 +6,7 @@ class Weather extends React.Component{
     constructor(props){
         super(props);
         this.state = {
-            API : "c8b922f9e4e3eb1bf2a778a976701b67",
+            API : "",
             URL : "http://api.openweathermap.org/data/2.5/weather?q=",
             cityName : null ,
             Icon : null,
