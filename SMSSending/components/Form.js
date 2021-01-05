@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Form.css"
-var msg91 = require("msg91")("232419AT2rwRRUo5b77e616","TCHSIM",'4');
+var msg91 = require("msg91")("KEY","NAMEJS",'CODE');
 
 const MassageSize = () =>{
     var msg = document.getElementById("textbox").value;
